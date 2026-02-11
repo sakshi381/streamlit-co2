@@ -117,13 +117,11 @@ Contributions are welcome! If you'd like to contribute, please:
 - **Streamlit** for enabling easy deployment of ML apps.
 
 ---
-## 🛡️ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Author
 
----
+ Kalyani Sawkar                                                              
+ linkdin:-https:https://www.linkedin.com/in/kalyani-sawkar 
+ Git:https://github.com/kalyan-sawkar
 
-## 👤 Author  
-**Ashish Patel**  
-[![GitHub](icons8-github-50.png)](https://github.com/ashishpatel8736) | [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/ashishpatel8736)
 
 
