@@ -37,26 +37,20 @@
 
 ### Setup Instructions
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/ashishpatel8736/CO2-Emissions-Predictor.git
-   cd CO2-Emissions-Predictor
-```
-
-### Step 2: Install Dependencies
+### Step 1: Install Dependencies
 Ensure you have Python installed. Run the following to install the required libraries:
 ```bash
 pip install -r requirements.txt
 
 ```
 
-### Step 3: Start the Application
+### Step 2: Start the Application
 Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
 
-### Step 4: Open your browser and go to:
+### Step 3: Open your browser and go to:
 
 ```bash
 http://localhost:8501
